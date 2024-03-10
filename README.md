@@ -15,6 +15,8 @@ This Spring Boot application retrieves and displays weather forecast information
    
 2. Clone the repository:
     git clone https://github.com/VarunGoel252/weather-forcast-app.git
+    cd weather-forcast-app
+    git checkout master
     
 3. Install dependencies
     mvn clean install
